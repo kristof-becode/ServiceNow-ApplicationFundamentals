@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties_category">
+    <sys_properties_category action="INSERT_OR_UPDATE">
+        <name>Loaner Request</name>
+        <sys_class_name>sys_properties_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-06-14 19:41:17</sys_created_on>
+        <sys_id>34d2a4f3b5dfa1107f449dbdfae46eed</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Loaner Request</sys_name>
+        <sys_package display_value="Loaner request" source="x_cdltd_loaner_req">7249e4c3b5d321107f449dbdfae46e53</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner request">7249e4c3b5d321107f449dbdfae46e53</sys_scope>
+        <sys_update_name>sys_properties_category_34d2a4f3b5dfa1107f449dbdfae46eed</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-06-14 19:41:17</sys_updated_on>
+        <title><![CDATA[<p><span style="font-size: 14pt; font-family: &#39;arial black&#39;, &#39;avant garde&#39;;">Loaner Request Properties</span></p>
+<p><span style="font-size: 7pt; font-family: &#39;arial black&#39;, &#39;avant garde&#39;; background-color: #00ccff;">contact Joao</span></p>]]></title>
+    </sys_properties_category>
+    <sys_translated_text action="delete_multiple" query="documentkey=34d2a4f3b5dfa1107f449dbdfae46eed"/>
+</record_update>
